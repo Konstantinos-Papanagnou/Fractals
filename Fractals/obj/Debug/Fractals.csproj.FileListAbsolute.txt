@@ -1,0 +1,15 @@
+c:\users\kvn\documents\visual studio 2015\Projects\Fractals\Fractals\bin\Debug\Fractals.exe.config
+c:\users\kvn\documents\visual studio 2015\Projects\Fractals\Fractals\bin\Debug\Fractals.exe
+c:\users\kvn\documents\visual studio 2015\Projects\Fractals\Fractals\bin\Debug\Fractals.pdb
+c:\users\kvn\documents\visual studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.csprojResolveAssemblyReference.cache
+c:\users\kvn\documents\visual studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.Form1.resources
+c:\users\kvn\documents\visual studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.Properties.Resources.resources
+c:\users\kvn\documents\visual studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.csproj.GenerateResource.Cache
+c:\users\kvn\documents\visual studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.exe
+c:\users\kvn\documents\visual studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.pdb
+C:\Users\Kvn\documents\visual studio 2015\Projects\Fractals\Fractals\bin\Debug\Fractals.exe.manifest
+C:\Users\Kvn\documents\visual studio 2015\Projects\Fractals\Fractals\bin\Debug\Fractals.application
+C:\Users\Kvn\documents\visual studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.exe.manifest
+C:\Users\Kvn\documents\visual studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.application
+C:\Users\Kvn\documents\visual studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.Form2.resources
+C:\Users\Kvn\documents\visual studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.TrustInfo.xml
