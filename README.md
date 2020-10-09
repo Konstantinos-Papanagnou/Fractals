@@ -4,4 +4,4 @@
 
 ##### Mandelbrot Set equation: zn+1 = zn2 + c    where z and n are complex numbers and n is a zero or positive integer.
 
-![](Fractals/Mandelbrot set.ico)
+![](Fractals/App.PNG)
